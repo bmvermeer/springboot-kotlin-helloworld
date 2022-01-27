@@ -1,6 +1,6 @@
-package nl.brianvermeer.demo.springbootkotlinheloworld
+package nl.brianvermeer.demo.springbootkotlinhelloworld
 
-import nl.brianvermeer.demo.springbootkotlinheloworld.domain.StringAndTime
+import nl.brianvermeer.demo.springbootkotlinhelloworld.domain.StringAndTime
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
 import org.springframework.beans.factory.annotation.Autowired

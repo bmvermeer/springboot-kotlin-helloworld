@@ -1,4 +1,4 @@
-package nl.brianvermeer.demo.springbootkotlinheloworld.domain
+package nl.brianvermeer.demo.springbootkotlinhelloworld.domain
 
 import java.time.LocalTime
 

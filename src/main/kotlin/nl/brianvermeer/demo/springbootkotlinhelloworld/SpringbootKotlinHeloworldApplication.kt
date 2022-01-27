@@ -1,4 +1,4 @@
-package nl.brianvermeer.demo.springbootkotlinheloworld
+package nl.brianvermeer.demo.springbootkotlinhelloworld
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

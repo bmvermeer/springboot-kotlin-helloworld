@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>nl.brianvermeer.demo</groupId>
-	<artifactId>springboot-kotlin-heloworld</artifactId>
+	<artifactId>springboot-kotlin-helloworld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-kotlin-heloworld</name>
+	<name>Spring Boot Kotlin Hello World</name>
 	<description>Spring Boot Hello World in Kotlin</description>
 	<properties>
 		<java.version>11</java.version>

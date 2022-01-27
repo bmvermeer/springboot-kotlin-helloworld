@@ -1,6 +1,6 @@
-package nl.brianvermeer.demo.springbootkotlinheloworld.service
+package nl.brianvermeer.demo.springbootkotlinhelloworld.service
 
-import nl.brianvermeer.demo.springbootkotlinheloworld.domain.StringAndTime
+import nl.brianvermeer.demo.springbootkotlinhelloworld.domain.StringAndTime
 import org.springframework.stereotype.Service
 import java.time.LocalTime
 
